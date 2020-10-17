@@ -1,2 +1,2 @@
 # hello-world
-Hi. I don't know why exactly i've opened this account... I am new in coding. Friend suggested this site. I'm learning java. Trying to get hang of restful web services... Hope to get some insight here...
+Hi. I'm learning to code. Front-end, React, Node.js... I will be using this place as portfolio in the future. 
